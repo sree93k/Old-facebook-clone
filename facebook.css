@@ -1,0 +1,222 @@
+.header{
+    width: 100%;
+    height: 90px;
+    background-color: #3b5998;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial,sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 17px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: #ffff;
+    font-size: 45px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Helvetica Neue, Helvetica, Arial,sans-serif;
+    margin-left: 140px;
+}
+.loginlabel{
+    color: #ffff;
+    font-size: 14px;
+    margin-left: 13px;
+    width: 163px;
+    height: 19px;
+    padding-left: 14px;
+   
+}
+.logintable{
+   
+    margin-left: 13px;
+    width: 163px;
+    height: 19px;
+    padding-left:14px ;
+}
+.forgotaccount{
+    color: #9cb4d8;
+    font-size: 14px;
+    text-decoration: none;
+    padding-left: 14px;
+}
+.loginsubmit{
+    background-color: #4267b2;
+    color: #ffff;
+    font-size: 13px;
+    font-weight: bold;
+    height: 25px;
+    width:52px;
+    border-color:#29487b;
+    cursor:pointer;
+    box-shadow: none;
+    border-style: solid;
+   
+}
+.loginsubmit:hover{
+    background-color:  #1d49a1;
+}
+.table{
+    margin-left: 139px; 
+    margin-top: 10px;
+
+}
+.body-left{
+    width: 50%;
+    float: left;
+    padding-left: 140px;
+    padding-top: 50px;
+   
+    
+}
+.body-right{
+    width: 40%;
+    float: left;
+    
+}
+.mainbody{
+    background: linear-gradient(white,#D3D8E8);
+    height: 750px;
+    width: 100%;
+}
+.mapimage{
+    height: 250px;
+    width: 5  00px; 
+}
+.moto{
+    font-size: 21px;
+    font-weight: bold;
+}
+.name-text{
+    height: 40px;
+    width: 200px;
+    font-size: 21px;
+    border-radius: 5px;
+    border-color: rgb(239, 235, 235);
+    border: ridge;
+    padding-left: 10px;
+    margin-bottom: 6px;
+}
+#surname{
+    padding-left: 10px;
+}
+.name-text::placeholder{
+    color: #909398;
+}
+.text-details{
+    height: 40px;
+    width: 430px;
+    font-size: 21px;
+    border-radius: 6px;
+    border-color: grey;
+    border: ridge;
+    padding-left: 10px;
+    margin-bottom: 7px;
+
+}
+.text-details::placeholder{
+    color: #909398;
+}
+.text-password{
+    height: 40px;
+    width: 430px;
+    font-size: 21px;
+    border-radius: 5px;
+    border-color: grey;
+    border: ridge;
+    margin-bottom: 25px;
+    padding-left: 10px;
+    margin-bottom: 6px;
+}
+.text-password::placeholder{
+    color: #909398;
+}
+.createtext{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.quicktext{
+    font-size: 20px; 
+}
+.dob{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(156, 152, 152);
+}
+.day{
+    margin-top: 10px;
+    width: 65px;
+    height: 30px;
+    padding-left: 5px;
+    margin-bottom: 10px;
+}
+.month{
+    margin-top: 10px;
+    width: 75px;
+    height: 30px;
+    padding-left: 5px;
+}
+.year{
+    margin-top: 10px;
+    width: 70px;
+    height: 30px;
+    padding-left: 5px;
+    border-style: ridge;
+}
+.gendio{
+    margin-top: 20px;
+   margin-left: 13px;
+   
+    
+}
+.genlabel{
+    font-size: 20px;
+}
+.signup{
+    width: 250px;
+    height: 50px;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 7px;
+    color: rgb(250, 247, 247);
+    margin-bottom: 20px;
+    cursor:pointer;
+    background-image: linear-gradient(rgb(110, 182, 110),rgb(53, 171, 53));
+}
+.signup:hover{
+    background-color:  #1d49a1;
+}
+.policy{
+    font-size: 13px;
+    text-decoration: none;
+    color: grey;
+}
+.footer
+{
+    width: 100%;
+    height: 70px;
+}
+.foot1{
+    padding-top: 10px;
+    height: 30px;
+    width: 100%;
+    padding-left: 390px;
+    float: left;
+    font-size: 13px;
+}
+
+
+.foot2{
+    padding-left: 120px;
+    font-size: 13px;
+}
+
+
+ 
